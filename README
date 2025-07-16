@@ -5,7 +5,7 @@
 # You can use this file in order to verify that the download file is the original
 # one created by the Valkey team, and not a modified or corrupted file.
 #
-# This file is located in GitHub in the following repository:
+# This file is located in the following GitHub repository:
 # https://github.com/valkey-io/valkey-hashes
 #
 # The file format is the following:
