@@ -82,3 +82,4 @@ hash valkey-8.1.12.tar.gz sha256 675bd143a4c42022f7ce10fb012a7a61e0a70b139ff166e
 hash valkey-8.0.13.tar.gz sha256 2ab429a0450cb6f597186469d530d2a931c9ad4d6ba8156b9d6af2ce40dc0478 https://github.com/valkey-io/valkey/archive/refs/tags/8.0.13.tar.gz
 hash valkey-9.0.8.tar.gz sha256 bd14f6fb0ee8d5c0e7e78073ef9cb24168bddebbe1b0fbf057e1b8d4f342b585 https://github.com/valkey-io/valkey/archive/refs/tags/9.0.8.tar.gz
 hash valkey-9.2.0.tar.gz sha256 a02cb44db1269b699629e419d4949e6e51e984b1f0e9a984e8ee1e1b3b7cc36f https://github.com/valkey-io/valkey/archive/refs/tags/9.2.0.tar.gz
+hash valkey-9.2.1.tar.gz sha256 fec5d34ac6f5c7f35cddcaae368734d8a789f1af2f7c29853e790f093d848d71 https://github.com/valkey-io/valkey/archive/refs/tags/9.2.1.tar.gz
